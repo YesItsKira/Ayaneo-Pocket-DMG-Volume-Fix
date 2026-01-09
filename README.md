@@ -21,7 +21,7 @@ Persistence:
 
 1. Download the release ZIP from this repo.
 2. Extract the files to the location below:
-3. 
+   
    -> Internal Storage -> Download -> KirasPocketDMGVolumeFix (.sh and .xml files should be in here)
 
    You should end up with:
