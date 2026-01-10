@@ -15,16 +15,16 @@ It works by binding a modified volume table over the system table so the audio s
 
 Persistence:
 - This is a **temporary runtime mount**. **A reboot clears it.**
-- After reboot, run `Aya_ON.sh` again.
+- After reboot, run `Aya_ON.sh` again to restart the service.
 
 ## Installation
 
-1. Download the release ZIP from this repo.
+1. Download the release ZIP from the releases page.
 2. Extract the files to the location below:
    
    -> Internal Storage -> Download -> KirasPocketDMGVolumeFix (.sh and .xml files should be in here)
 
-The exact location is /storage/emulated/0/Download/KirasPocketDMGVolumeFix/default_volume_tables_SMOOTH.xml
+The exact location is /storage/emulated/0/Download/KirasPocketDMGVolumeFix/(.xml and .sh files here)
 
    **They NEED to be in this exact location**
 
