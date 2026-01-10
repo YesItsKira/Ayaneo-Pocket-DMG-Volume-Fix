@@ -23,6 +23,9 @@ Persistence:
 2. Extract the files to the location below:
    
    -> Internal Storage -> Download -> KirasPocketDMGVolumeFix (.sh and .xml files should be in here)
+
+The exact location is /storage/emulated/0/Download/KirasPocketDMGVolumeFix/default_volume_tables_SMOOTH.xml
+
    **They NEED to be in this exact location**
 
    You should end up with:
