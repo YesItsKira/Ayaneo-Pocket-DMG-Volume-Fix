@@ -1,6 +1,6 @@
 # Ayaneo Pocket DMG Volume Root Scripts
 
-A small, fix for smoother speaker volume steps on the Ayaneo Pocket DMG.
+A small fix for smoother speaker volume steps on the Ayaneo Pocket DMG.
 
 This repo provides:
 - a tuned "default_volume_tables_SMOOTH.xml"
