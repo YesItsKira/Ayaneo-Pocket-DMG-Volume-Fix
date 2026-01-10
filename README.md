@@ -26,7 +26,7 @@ Persistence:
    **They NEED to be in this exact location**
 
    You should end up with:
-   `/sdcard/Download/KirasPocketDMGVolumeFix/`
+   `/internalstorage/Download/KirasPocketDMGVolumeFix/`
    - `default_volume_tables_SMOOTH.xml`
    - `Aya_ON.sh`
    - `Aya_OFF.sh`
