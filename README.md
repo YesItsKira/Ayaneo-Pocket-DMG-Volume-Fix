@@ -23,6 +23,7 @@ Persistence:
 2. Extract the files to the location below:
    
    -> Internal Storage -> Download -> KirasPocketDMGVolumeFix (.sh and .xml files should be in here)
+   **They NEED to be in this exact location**
 
    You should end up with:
    `/sdcard/Download/KirasPocketDMGVolumeFix/`
