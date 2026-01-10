@@ -56,6 +56,8 @@ Should show:
 
 ---
 
+Huge thanks to mrdidit, Boar, Mr_Karate & Joex from the Ayaneo Discord who shared logs and tested the scripts for me!
+
 I dont charge for any of my projects and make them free for the community. 
 If you like my work, I would really appreciate a donation!
 https://ko-fi.com/yesitskira
